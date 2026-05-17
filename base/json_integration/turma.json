@@ -1,0 +1,13 @@
+{
+    "alunos": [
+        {
+            "nome": "Ana",
+            "nota": 8.5
+        },
+        {
+            "nome": "Pedro",
+            "nota": 6.0
+        }
+    ],
+    "media": 7.25
+}
