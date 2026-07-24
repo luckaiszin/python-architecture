@@ -1,0 +1,2 @@
+def pares_infinitos():
+    
