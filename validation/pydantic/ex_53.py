@@ -41,5 +41,3 @@ pedido_dict = {
 carrinho = Pedido.model_validate(pedido_dict)
 
 print(carrinho)
-
-
